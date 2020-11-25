@@ -1,0 +1,5 @@
+﻿  Render.cpp
+D:\Загрузки\grafika_lab3-master\OpenGLrememberProj\Render.cpp(47,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Загрузки\grafika_lab3-master\OpenGLrememberProj\Render.cpp(47,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Загрузки\grafika_lab3-master\OpenGLrememberProj\Render.cpp(213,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  OpenGLrememberProj.vcxproj -> D:\Загрузки\grafika_lab3-master\Debug\OpenGLrememberProj.exe
